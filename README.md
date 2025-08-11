@@ -89,9 +89,10 @@ Provide a **single Tableau workbook** with **three dashboards** that collectivel
 
 ## 📸 Screenshots
 
-| Overview Dashboard | Deep Dive Dashboard | Storytelling Dashboard |
-|--------------------|--------------------|------------------------|
-| ![Overview](https://github.com/Hamna228/Netflix-Dashboard/blob/main/1.png) | ![Deep Dive](https://github.com/Hamna228/Netflix-Dashboard/blob/main/2.png) | ![Storytelling](https://github.com/Hamna228/Netflix-Dashboard/blob/main/3.png) |
+
+|![Overview](https://github.com/Hamna228/Netflix-Dashboard/blob/main/1.png) 
+| ![Deep Dive](https://github.com/Hamna228/Netflix-Dashboard/blob/main/2.png) |
+![Storytelling](https://github.com/Hamna228/Netflix-Dashboard/blob/main/3.png) |
 
 ---
 
